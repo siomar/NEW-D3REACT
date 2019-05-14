@@ -1,0 +1,92 @@
+[
+    {
+       "call_req_id": "cr:776196",
+       "id": 776196,
+       "topic": 18,
+       "desc_topic": "Reset de senha",
+       "confidence": 0.7759810090065002,
+       "automated": "Sim",
+       "description_cleaned": "reset rede segregada reset senha temporaria trocar senha diferente ultimas senha padroes caracteres letra maiuscula caractere especial eventuais duvidas reset rede segregada usuarios"
+    },
+    {
+       "call_req_id": "cr:479753",
+       "id": 479753,
+       "topic": 1,
+       "desc_topic": "Alarme",
+       "confidence": 0.47150978446006775,
+       "automated": "Sim",
+       "description_cleaned": "solucao chat chat solucao"
+    },
+    {
+       "call_req_id": "cr:612601",
+       "id": 612601,
+       "topic": 20,
+       "desc_topic": "Desbloqueio de usuário (rede segregada)",
+       "confidence": 0.8148033618927002,
+       "automated": "Sim",
+       "description_cleaned": "desbloqueio usuarios rede segregada desbloqueio testado desbloqueio usuarios rede segregada local site funcional email helidaf email helidaf"
+    },
+    {
+       "call_req_id": "cr:454260",
+       "id": 454260,
+       "topic": 22,
+       "desc_topic": "Reset de senha",
+       "confidence": 0.918749988079071,
+       "automated": "Sim",
+       "description_cleaned": "reset senha rede reset senha reset senha reset senha rede telefone"
+    },
+    {
+       "call_req_id": "cr:699083",
+       "id": 699083,
+       "topic": "0",
+       "desc_topic": "Liberação de email",
+       "confidence": 0.7088218331336975,
+       "automated": "Nao",
+       "description_cleaned": "resumo liberacao pacote office liberacao acessar email office acessar algarnet outlook office senha rede saiba senha email rede solicitacao reset senha persista anexar tela erro compartilhado email liberacao pacote office excel world gerente telefone"
+    },
+    {
+       "call_req_id": "cr:823922",
+       "id": 823922,
+       "topic": 4,
+       "desc_topic": "Reset de senha (email)",
+       "confidence": 0.8185505867004395,
+       "automated": "Sim",
+       "description_cleaned": "reset conferencia reset local site funcional email catiarc estrategico email"
+    },
+    {
+       "call_req_id": "cr:594968",
+       "id": 594968,
+       "topic": 6,
+       "desc_topic": "Desbloqueio de usuário",
+       "confidence": 0.6070749759674072,
+       "automated": "Sim",
+       "description_cleaned": "criacao rede criacao rede analistas adequacao rede usuarios espelho telefone nayama telefone"
+    },
+    {
+       "call_req_id": "cr:631077",
+       "id": 631077,
+       "topic": 22,
+       "desc_topic": "Reset de senha",
+       "confidence": 0.6383693814277649,
+       "automated": "Sim",
+       "description_cleaned": "reset senha control plus acessar suporte local remoto solicitacao hardware equipamentos outros gerais aplicacao cliente reset senha reset senha reset senha control plus acessar telefone"
+    },
+    {
+       "call_req_id": "cr:520611",
+       "id": 520611,
+       "topic": 29,
+       "desc_topic": "Outros",
+       "confidence": 0.399816632270813,
+       "automated": "Nao",
+       "description_cleaned": "erro acessar aplicado correcao acessar aplicado correcao remoto solicitacao sistemas aplicacao corporativas cliente configuracao caixa erro kenan erro site gexp operacoes gerente"
+    },
+    {
+       "call_req_id": "cr:503118",
+       "id": 503118,
+       "topic": 5,
+       "desc_topic": "Instalação office",
+       "confidence": 0.22709046304225922,
+       "automated": "Sim",
+       "description_cleaned": "notebook apresentando office notebook apresentando office precisa corrigido ativado verificacao notebook apresentando office precisa corrigido ativado verificacao licenca usuarios tluiz ttrue remoto solicitacao sistemas aplicacao pacote office configuracao informacoes passadas usuarios registrar comentario usuarios deslocamento solicitacao retorno hora retorno solucionado notebook apresentando office precisa corrigido ativado verificacao licenca usuarios true"
+    }
+ ]

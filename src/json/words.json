@@ -1,0 +1,1494 @@
+[
+  {
+    "text": "email",
+    "value": 141356
+  },
+  {
+    "text": "usuarios",
+    "value": 107146
+  },
+  {
+    "text": "senha",
+    "value": 105959
+  },
+  {
+    "text": "rede",
+    "value": 100743
+  },
+  {
+    "text": "reset",
+    "value": 81612
+  },
+  {
+    "text": "acessar",
+    "value": 80965
+  },
+  {
+    "text": "telefone",
+    "value": 80155
+  },
+  {
+    "text": "solicitacao",
+    "value": 70360
+  },
+  {
+    "text": "local",
+    "value": 65728
+  },
+  {
+    "text": "site",
+    "value": 58876
+  },
+  {
+    "text": "liberacao",
+    "value": 45934
+  },
+  {
+    "text": "desbloqueio",
+    "value": 42937
+  },
+  {
+    "text": "maquinas",
+    "value": 38334
+  },
+  {
+    "text": "funcional",
+    "value": 38224
+  },
+  {
+    "text": "remoto",
+    "value": 37363
+  },
+  {
+    "text": "operacao",
+    "value": 34312
+  },
+  {
+    "text": "fluxo",
+    "value": 34224
+  },
+  {
+    "text": "criacao",
+    "value": 32326
+  },
+  {
+    "text": "aplicacao",
+    "value": 29458
+  },
+  {
+    "text": "ligacoes",
+    "value": 28682
+  },
+  {
+    "text": "suporte",
+    "value": 28531
+  },
+  {
+    "text": "segregada",
+    "value": 26833
+  },
+  {
+    "text": "erro",
+    "value": 26809
+  },
+  {
+    "text": "instalacao",
+    "value": 26632
+  },
+  {
+    "text": "caixa",
+    "value": 24625
+  },
+  {
+    "text": "appsup",
+    "value": 21557
+  },
+  {
+    "text": "restaurar",
+    "value": 21361
+  },
+  {
+    "text": "usuario",
+    "value": 20149
+  },
+  {
+    "text": "perfil",
+    "value": 19504
+  },
+  {
+    "text": "verificacao",
+    "value": 19369
+  },
+  {
+    "text": "configuracao",
+    "value": 19243
+  },
+  {
+    "text": "ramais",
+    "value": 18344
+  },
+  {
+    "text": "trocar",
+    "value": 18211
+  },
+  {
+    "text": "alterar",
+    "value": 16546
+  },
+  {
+    "text": "espelho",
+    "value": 16443
+  },
+  {
+    "text": "office",
+    "value": 15567
+  },
+  {
+    "text": "informacoes",
+    "value": 15333
+  },
+  {
+    "text": "audios",
+    "value": 15154
+  },
+  {
+    "text": "dados",
+    "value": 13389
+  },
+  {
+    "text": "aprovacao",
+    "value": 12630
+  },
+  {
+    "text": "windows",
+    "value": 10985
+  },
+  {
+    "text": "sistemas",
+    "value": 10650
+  },
+  {
+    "text": "licenca",
+    "value": 10476
+  },
+  {
+    "text": "alarme",
+    "value": 10406
+  },
+  {
+    "text": "conexao",
+    "value": 9492
+  },
+  {
+    "text": "qlikview",
+    "value": 9320
+  },
+  {
+    "text": "host",
+    "value": 9262
+  },
+  {
+    "text": "reuniao",
+    "value": 9009
+  },
+  {
+    "text": "verificado",
+    "value": 8691
+  },
+  {
+    "text": "servidor",
+    "value": 8669
+  },
+  {
+    "text": "bloqueado",
+    "value": 8534
+  },
+  {
+    "text": "operacional",
+    "value": 8497
+  },
+  {
+    "text": "tela",
+    "value": 8098
+  },
+  {
+    "text": "outlook",
+    "value": 8031
+  },
+  {
+    "text": "zimbra",
+    "value": 8017
+  },
+  {
+    "text": "retorno",
+    "value": 7919
+  },
+  {
+    "text": "chat",
+    "value": 7908
+  },
+  {
+    "text": "caminho",
+    "value": 7882
+  },
+  {
+    "text": "portal",
+    "value": 7801
+  },
+  {
+    "text": "ferramenta",
+    "value": 7728
+  },
+  {
+    "text": "corporativas",
+    "value": 7624
+  },
+  {
+    "text": "desbloqueado",
+    "value": 7433
+  },
+  {
+    "text": "appstart",
+    "value": 7406
+  },
+  {
+    "text": "fila",
+    "value": 7283
+  },
+  {
+    "text": "posicoes",
+    "value": 7278
+  },
+  {
+    "text": "cliente",
+    "value": 7193
+  },
+  {
+    "text": "internet",
+    "value": 7148
+  },
+  {
+    "text": "supervisor",
+    "value": 7136
+  },
+  {
+    "text": "fones",
+    "value": 7066
+  },
+  {
+    "text": "duvida",
+    "value": 7048
+  },
+  {
+    "text": "relatorio",
+    "value": 7024
+  },
+  {
+    "text": "operador",
+    "value": 6796
+  },
+  {
+    "text": "assistente",
+    "value": 6732
+  },
+  {
+    "text": "resumo",
+    "value": 6615
+  },
+  {
+    "text": "ticket",
+    "value": 6418
+  },
+  {
+    "text": "plus",
+    "value": 6409
+  },
+  {
+    "text": "tratativa",
+    "value": 6362
+  },
+  {
+    "text": "pasta",
+    "value": 6350
+  },
+  {
+    "text": "seguranca",
+    "value": 6348
+  },
+  {
+    "text": "duvidas",
+    "value": 6345
+  },
+  {
+    "text": "atualizacao",
+    "value": 6179
+  },
+  {
+    "text": "fita",
+    "value": 6040
+  },
+  {
+    "text": "normalizado",
+    "value": 6010
+  },
+  {
+    "text": "backup",
+    "value": 5856
+  },
+  {
+    "text": "telefonico",
+    "value": 5736
+  },
+  {
+    "text": "disco",
+    "value": 5624
+  },
+  {
+    "text": "dominio",
+    "value": 5491
+  },
+  {
+    "text": "motivo",
+    "value": 5415
+  },
+  {
+    "text": "projeto",
+    "value": 5387
+  },
+  {
+    "text": "gerais",
+    "value": 5347
+  },
+  {
+    "text": "desbloquear",
+    "value": 5282
+  },
+  {
+    "text": "avaya",
+    "value": 5240
+  },
+  {
+    "text": "testado",
+    "value": 5062
+  },
+  {
+    "text": "falha",
+    "value": 4966
+  },
+  {
+    "text": "qualidade",
+    "value": 4922
+  },
+  {
+    "text": "criado",
+    "value": 4862
+  },
+  {
+    "text": "redes",
+    "value": 4772
+  },
+  {
+    "text": "configurar",
+    "value": 4752
+  },
+  {
+    "text": "lentidao",
+    "value": 4736
+  },
+  {
+    "text": "banco",
+    "value": 4733
+  },
+  {
+    "text": "multimidia",
+    "value": 4643
+  },
+  {
+    "text": "skype",
+    "value": 4632
+  },
+  {
+    "text": "aguardando",
+    "value": 4576
+  },
+  {
+    "text": "whatsapp",
+    "value": 4544
+  },
+  {
+    "text": "liberado",
+    "value": 4416
+  },
+  {
+    "text": "arquivos",
+    "value": 4407
+  },
+  {
+    "text": "mouse",
+    "value": 4397
+  },
+  {
+    "text": "orientado",
+    "value": 4326
+  },
+  {
+    "text": "gestao",
+    "value": 4324
+  },
+  {
+    "text": "diretorio",
+    "value": 4308
+  },
+  {
+    "text": "grcc",
+    "value": 4263
+  },
+  {
+    "text": "cobranca",
+    "value": 4254
+  },
+  {
+    "text": "alta",
+    "value": 4228
+  },
+  {
+    "text": "anexar",
+    "value": 4201
+  },
+  {
+    "text": "print",
+    "value": 4135
+  },
+  {
+    "text": "registrar",
+    "value": 4101
+  },
+  {
+    "text": "desktop",
+    "value": 4049
+  },
+  {
+    "text": "notebook",
+    "value": 4029
+  },
+  {
+    "text": "computador",
+    "value": 4003
+  },
+  {
+    "text": "hora",
+    "value": 3963
+  },
+  {
+    "text": "hardware",
+    "value": 3926
+  },
+  {
+    "text": "ponto",
+    "value": 3898
+  },
+  {
+    "text": "atendido",
+    "value": 3875
+  },
+  {
+    "text": "predio",
+    "value": 3875
+  },
+  {
+    "text": "control",
+    "value": 3837
+  },
+  {
+    "text": "comentario",
+    "value": 3806
+  },
+  {
+    "text": "logar",
+    "value": 3785
+  },
+  {
+    "text": "operacoes",
+    "value": 3759
+  },
+  {
+    "text": "atualizar",
+    "value": 3745
+  },
+  {
+    "text": "telefonia",
+    "value": 3739
+  },
+  {
+    "text": "procedimento",
+    "value": 3737
+  },
+  {
+    "text": "execucao",
+    "value": 3720
+  },
+  {
+    "text": "backoffice",
+    "value": 3706
+  },
+  {
+    "text": "possivel",
+    "value": 3679
+  },
+  {
+    "text": "treinamento",
+    "value": 3602
+  },
+  {
+    "text": "algarnet",
+    "value": 3596
+  },
+  {
+    "text": "conferencia",
+    "value": 3596
+  },
+  {
+    "text": "fraude",
+    "value": 3585
+  },
+  {
+    "text": "pacote",
+    "value": 3575
+  },
+  {
+    "text": "orientacao",
+    "value": 3510
+  },
+  {
+    "text": "imagem",
+    "value": 3498
+  },
+  {
+    "text": "empresarial",
+    "value": 3490
+  },
+  {
+    "text": "aspect",
+    "value": 3477
+  },
+  {
+    "text": "indisponivel",
+    "value": 3450
+  },
+  {
+    "text": "enviar",
+    "value": 3447
+  },
+  {
+    "text": "arquivo",
+    "value": 3433
+  },
+  {
+    "text": "opcao",
+    "value": 3408
+  },
+  {
+    "text": "correta",
+    "value": 3401
+  },
+  {
+    "text": "validacao",
+    "value": 3372
+  },
+  {
+    "text": "versao",
+    "value": 3333
+  },
+  {
+    "text": "processo",
+    "value": 3277
+  },
+  {
+    "text": "gerente",
+    "value": 3270
+  },
+  {
+    "text": "evidencia",
+    "value": 3247
+  },
+  {
+    "text": "disponibilizar",
+    "value": 3246
+  },
+  {
+    "text": "empresa",
+    "value": 3242
+  },
+  {
+    "text": "tecnico",
+    "value": 3239
+  },
+  {
+    "text": "compartilhado",
+    "value": 3224
+  },
+  {
+    "text": "coordenacao",
+    "value": 3221
+  },
+  {
+    "text": "outros",
+    "value": 3217
+  },
+  {
+    "text": "sistema",
+    "value": 3215
+  },
+  {
+    "text": "encerramento",
+    "value": 3195
+  },
+  {
+    "text": "impressora",
+    "value": 3162
+  },
+  {
+    "text": "localidade",
+    "value": 3142
+  },
+  {
+    "text": "equipamentos",
+    "value": 3130
+  },
+  {
+    "text": "cervello",
+    "value": 3124
+  },
+  {
+    "text": "formatacao",
+    "value": 3086
+  },
+  {
+    "text": "resgatados",
+    "value": 3075
+  },
+  {
+    "text": "efetuado",
+    "value": 3068
+  },
+  {
+    "text": "somente",
+    "value": 3058
+  },
+  {
+    "text": "skill",
+    "value": 3049
+  },
+  {
+    "text": "temporaria",
+    "value": 3027
+  },
+  {
+    "text": "correcao",
+    "value": 3007
+  },
+  {
+    "text": "head",
+    "value": 2947
+  },
+  {
+    "text": "relatorios",
+    "value": 2947
+  },
+  {
+    "text": "persista",
+    "value": 2927
+  },
+  {
+    "text": "informando",
+    "value": 2923
+  },
+  {
+    "text": "diretoria",
+    "value": 2922
+  },
+  {
+    "text": "pesquisa",
+    "value": 2913
+  },
+  {
+    "text": "troca",
+    "value": 2880
+  },
+  {
+    "text": "configurado",
+    "value": 2863
+  },
+  {
+    "text": "acima",
+    "value": 2859
+  },
+  {
+    "text": "junto",
+    "value": 2837
+  },
+  {
+    "text": "controle",
+    "value": 2813
+  },
+  {
+    "text": "pessoal",
+    "value": 2762
+  },
+  {
+    "text": "envio",
+    "value": 2742
+  },
+  {
+    "text": "limpeza",
+    "value": 2720
+  },
+  {
+    "text": "chamados",
+    "value": 2720
+  },
+  {
+    "text": "monitor",
+    "value": 2718
+  },
+  {
+    "text": "leitura",
+    "value": 2702
+  },
+  {
+    "text": "demanda",
+    "value": 2691
+  },
+  {
+    "text": "manutencao",
+    "value": 2682
+  },
+  {
+    "text": "atual",
+    "value": 2670
+  },
+  {
+    "text": "precisamos",
+    "value": 2666
+  },
+  {
+    "text": "fica",
+    "value": 2660
+  },
+  {
+    "text": "tambem",
+    "value": 2652
+  },
+  {
+    "text": "saiba",
+    "value": 2645
+  },
+  {
+    "text": "planilha",
+    "value": 2641
+  },
+  {
+    "text": "base",
+    "value": 2640
+  },
+  {
+    "text": "pausa",
+    "value": 2636
+  },
+  {
+    "text": "internacional",
+    "value": 2632
+  },
+  {
+    "text": "gestor",
+    "value": 2606
+  },
+  {
+    "text": "servicos",
+    "value": 2601
+  },
+  {
+    "text": "port",
+    "value": 2597
+  },
+  {
+    "text": "espaco",
+    "value": 2592
+  },
+  {
+    "text": "agilidade",
+    "value": 2592
+  },
+  {
+    "text": "equipamento",
+    "value": 2583
+  },
+  {
+    "text": "educacao",
+    "value": 2575
+  },
+  {
+    "text": "direcionar",
+    "value": 2556
+  },
+  {
+    "text": "lembrando",
+    "value": 2542
+  },
+  {
+    "text": "forma",
+    "value": 2538
+  },
+  {
+    "text": "normal",
+    "value": 2515
+  },
+  {
+    "text": "acompanhamento",
+    "value": 2510
+  },
+  {
+    "text": "microsoft",
+    "value": 2507
+  },
+  {
+    "text": "termino",
+    "value": 2497
+  },
+  {
+    "text": "obrigado",
+    "value": 2478
+  },
+  {
+    "text": "proxy",
+    "value": 2476
+  },
+  {
+    "text": "funcionamento",
+    "value": 2460
+  },
+  {
+    "text": "noite",
+    "value": 2459
+  },
+  {
+    "text": "funcionando",
+    "value": 2442
+  },
+  {
+    "text": "monitoramento",
+    "value": 2437
+  },
+  {
+    "text": "segmento",
+    "value": 2433
+  },
+  {
+    "text": "andar",
+    "value": 2431
+  },
+  {
+    "text": "atraves",
+    "value": 2386
+  },
+  {
+    "text": "apresentando",
+    "value": 2383
+  },
+  {
+    "text": "protocolo",
+    "value": 2370
+  },
+  {
+    "text": "novos",
+    "value": 2367
+  },
+  {
+    "text": "nivel",
+    "value": 2353
+  },
+  {
+    "text": "ferias",
+    "value": 2323
+  },
+  {
+    "text": "licencas",
+    "value": 2318
+  },
+  {
+    "text": "diferente",
+    "value": 2308
+  },
+  {
+    "text": "momento",
+    "value": 2300
+  },
+  {
+    "text": "urgente",
+    "value": 2296
+  },
+  {
+    "text": "analistas",
+    "value": 2265
+  },
+  {
+    "text": "precisa",
+    "value": 2257
+  },
+  {
+    "text": "center",
+    "value": 2242
+  },
+  {
+    "text": "orientada",
+    "value": 2234
+  },
+  {
+    "text": "teclado",
+    "value": 2207
+  },
+  {
+    "text": "titulo",
+    "value": 2205
+  },
+  {
+    "text": "gravar",
+    "value": 2196
+  },
+  {
+    "text": "documento",
+    "value": 2193
+  },
+  {
+    "text": "erros",
+    "value": 2184
+  },
+  {
+    "text": "identificado",
+    "value": 2180
+  },
+  {
+    "text": "deste",
+    "value": 2175
+  },
+  {
+    "text": "aparece",
+    "value": 2164
+  },
+  {
+    "text": "pagina",
+    "value": 2162
+  },
+  {
+    "text": "verificando",
+    "value": 2156
+  },
+  {
+    "text": "high",
+    "value": 2155
+  },
+  {
+    "text": "acordo",
+    "value": 2148
+  },
+  {
+    "text": "inclusao",
+    "value": 2127
+  },
+  {
+    "text": "importacao",
+    "value": 2109
+  },
+  {
+    "text": "headphone",
+    "value": 2106
+  },
+  {
+    "text": "seguradora",
+    "value": 2106
+  },
+  {
+    "text": "producao",
+    "value": 2105
+  },
+  {
+    "text": "espelhamento",
+    "value": 2098
+  },
+  {
+    "text": "robo",
+    "value": 2095
+  },
+  {
+    "text": "ambiente",
+    "value": 2079
+  },
+  {
+    "text": "finalizado",
+    "value": 2075
+  },
+  {
+    "text": "inovacao",
+    "value": 2068
+  },
+  {
+    "text": "eventuais",
+    "value": 2051
+  },
+  {
+    "text": "satisfacao",
+    "value": 2050
+  },
+  {
+    "text": "ainda",
+    "value": 2030
+  },
+  {
+    "text": "electrolux",
+    "value": 2027
+  },
+  {
+    "text": "baixar",
+    "value": 2021
+  },
+  {
+    "text": "padroes",
+    "value": 2015
+  },
+  {
+    "text": "seguintes",
+    "value": 2012
+  },
+  {
+    "text": "horas",
+    "value": 2007
+  },
+  {
+    "text": "especial",
+    "value": 1996
+  },
+  {
+    "text": "pedido",
+    "value": 1993
+  },
+  {
+    "text": "caracteres",
+    "value": 1990
+  },
+  {
+    "text": "dynamics",
+    "value": 1973
+  },
+  {
+    "text": "letra",
+    "value": 1963
+  },
+  {
+    "text": "disposicao",
+    "value": 1963
+  },
+  {
+    "text": "virtual",
+    "value": 1947
+  },
+  {
+    "text": "responder",
+    "value": 1942
+  },
+  {
+    "text": "projetos",
+    "value": 1940
+  },
+  {
+    "text": "espelhar",
+    "value": 1932
+  },
+  {
+    "text": "value",
+    "value": 1921
+  },
+  {
+    "text": "ultimas",
+    "value": 1920
+  },
+  {
+    "text": "encaminhar",
+    "value": 1920
+  },
+  {
+    "text": "operadora",
+    "value": 1914
+  },
+  {
+    "text": "maiuscula",
+    "value": 1911
+  },
+  {
+    "text": "endereco",
+    "value": 1911
+  },
+  {
+    "text": "bloqueio",
+    "value": 1908
+  },
+  {
+    "text": "assim",
+    "value": 1906
+  },
+  {
+    "text": "transferido",
+    "value": 1899
+  },
+  {
+    "text": "cadastro",
+    "value": 1886
+  },
+  {
+    "text": "porta",
+    "value": 1883
+  },
+  {
+    "text": "levantamento",
+    "value": 1882
+  },
+  {
+    "text": "entre_secoes",
+    "value": 1878
+  },
+  {
+    "text": "caractere",
+    "value": 1876
+  },
+  {
+    "text": "archive",
+    "value": 1870
+  },
+  {
+    "text": "losango",
+    "value": 1850
+  },
+  {
+    "text": "utilizacao",
+    "value": 1847
+  },
+  {
+    "text": "wifi",
+    "value": 1843
+  },
+  {
+    "text": "blending",
+    "value": 1827
+  },
+  {
+    "text": "ressalto",
+    "value": 1824
+  },
+  {
+    "text": "excluir",
+    "value": 1823
+  },
+  {
+    "text": "educadora",
+    "value": 1822
+  },
+  {
+    "text": "executar",
+    "value": 1822
+  },
+  {
+    "text": "incidentes",
+    "value": 1813
+  },
+  {
+    "text": "desta",
+    "value": 1783
+  },
+  {
+    "text": "participantes",
+    "value": 1783
+  },
+  {
+    "text": "presence",
+    "value": 1779
+  },
+  {
+    "text": "vendas",
+    "value": 1778
+  },
+  {
+    "text": "regional",
+    "value": 1774
+  },
+  {
+    "text": "atualizado",
+    "value": 1768
+  },
+  {
+    "text": "encontra",
+    "value": 1768
+  },
+  {
+    "text": "gravacoes",
+    "value": 1759
+  },
+  {
+    "text": "indisponibilidade",
+    "value": 1742
+  },
+  {
+    "text": "view",
+    "value": 1733
+  },
+  {
+    "text": "headset",
+    "value": 1731
+  },
+  {
+    "text": "inserir",
+    "value": 1725
+  },
+  {
+    "text": "contas",
+    "value": 1722
+  },
+  {
+    "text": "utilizar",
+    "value": 1721
+  },
+  {
+    "text": "java",
+    "value": 1720
+  },
+  {
+    "text": "importancia",
+    "value": 1719
+  },
+  {
+    "text": "peco",
+    "value": 1706
+  },
+  {
+    "text": "videoconferencia",
+    "value": 1702
+  },
+  {
+    "text": "consigo",
+    "value": 1701
+  },
+  {
+    "text": "correto",
+    "value": 1691
+  },
+  {
+    "text": "demandas",
+    "value": 1689
+  },
+  {
+    "text": "responde",
+    "value": 1679
+  },
+  {
+    "text": "negocio",
+    "value": 1672
+  },
+  {
+    "text": "realizamos",
+    "value": 1662
+  },
+  {
+    "text": "impressao",
+    "value": 1662
+  },
+  {
+    "text": "comunicacao",
+    "value": 1661
+  },
+  {
+    "text": "pastas",
+    "value": 1659
+  },
+  {
+    "text": "ativacao",
+    "value": 1658
+  },
+  {
+    "text": "selecionar",
+    "value": 1644
+  },
+  {
+    "text": "servidores",
+    "value": 1627
+  },
+  {
+    "text": "online",
+    "value": 1619
+  },
+  {
+    "text": "padrao",
+    "value": 1617
+  },
+  {
+    "text": "cerrado",
+    "value": 1612
+  },
+  {
+    "text": "gravacao",
+    "value": 1608
+  },
+  {
+    "text": "agendamento",
+    "value": 1604
+  },
+  {
+    "text": "migracao",
+    "value": 1577
+  },
+  {
+    "text": "computadores",
+    "value": 1573
+  },
+  {
+    "text": "quantidade",
+    "value": 1564
+  },
+  {
+    "text": "jatuba",
+    "value": 1555
+  },
+  {
+    "text": "alguns",
+    "value": 1555
+  },
+  {
+    "text": "corporate",
+    "value": 1542
+  },
+  {
+    "text": "linha",
+    "value": 1542
+  },
+  {
+    "text": "origem",
+    "value": 1538
+  },
+  {
+    "text": "falta",
+    "value": 1534
+  },
+  {
+    "text": "humanos",
+    "value": 1532
+  },
+  {
+    "text": "telefones",
+    "value": 1527
+  },
+  {
+    "text": "software",
+    "value": 1526
+  },
+  {
+    "text": "lider",
+    "value": 1520
+  },
+  {
+    "text": "youse",
+    "value": 1514
+  },
+  {
+    "text": "pabx",
+    "value": 1513
+  },
+  {
+    "text": "agradece",
+    "value": 1512
+  },
+  {
+    "text": "lista",
+    "value": 1512
+  },
+  {
+    "text": "substituicao",
+    "value": 1507
+  },
+  {
+    "text": "consulta",
+    "value": 1505
+  },
+  {
+    "text": "novas",
+    "value": 1492
+  },
+  {
+    "text": "reiniciar",
+    "value": 1480
+  },
+  {
+    "text": "estacao",
+    "value": 1478
+  },
+  {
+    "text": "chamadas",
+    "value": 1477
+  },
+  {
+    "text": "solucao",
+    "value": 1470
+  },
+  {
+    "text": "alinhado",
+    "value": 1469
+  },
+  {
+    "text": "toda",
+    "value": 1465
+  },
+  {
+    "text": "recebimento",
+    "value": 1462
+  },
+  {
+    "text": "desenvolvimento",
+    "value": 1460
+  },
+  {
+    "text": "desbloqueada",
+    "value": 1454
+  },
+  {
+    "text": "script",
+    "value": 1454
+  },
+  {
+    "text": "request",
+    "value": 1447
+  },
+  {
+    "text": "sustentacao",
+    "value": 1439
+  },
+  {
+    "text": "video",
+    "value": 1439
+  },
+  {
+    "text": "loga",
+    "value": 1438
+  },
+  {
+    "text": "hostname",
+    "value": 1432
+  },
+  {
+    "text": "permitir",
+    "value": 1431
+  },
+  {
+    "text": "sempre",
+    "value": 1426
+  },
+  {
+    "text": "planejamento",
+    "value": 1424
+  }
+]

@@ -1,0 +1,2382 @@
+[
+    {
+        "year_month": "1970-01",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 14
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 6
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 4
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 155
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 4
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 3
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 4
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 5
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 4
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "IMAC",
+        "total_topics_count": 2
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-09",
+        "desc_topic": "IMAC",
+        "total_topics_count": 2
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Alarme",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 2
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "IMAC",
+        "total_topics_count": 3
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Alarme",
+        "total_topics_count": 3
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 90
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Outros",
+        "total_topics_count": 3
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 3
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "IMAC",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Outros",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Outros",
+        "total_topics_count": 2
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 2
+    },
+    {
+        "year_month": "2016-10",
+        "desc_topic": "Outros",
+        "total_topics_count": 1
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 25
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 96
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "IMAC",
+        "total_topics_count": 316
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Alarme",
+        "total_topics_count": 61
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 296
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 352
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 77
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 5016
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 94
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Outros",
+        "total_topics_count": 256
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 41
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Outros",
+        "total_topics_count": 104
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 290
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 45
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 17
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "IMAC",
+        "total_topics_count": 125
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 35
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Impressora",
+        "total_topics_count": 12
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 257
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Outros",
+        "total_topics_count": 609
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Alarme",
+        "total_topics_count": 149
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Ramal",
+        "total_topics_count": 12
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Outros",
+        "total_topics_count": 57
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 43
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Outros",
+        "total_topics_count": 46
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Outros",
+        "total_topics_count": 159
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 68
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 65
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 124
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Aspect",
+        "total_topics_count": 39
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "IMAC",
+        "total_topics_count": 73
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 37
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 29
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 24
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Outros",
+        "total_topics_count": 106
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 122
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "IMAC",
+        "total_topics_count": 11
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Outros",
+        "total_topics_count": 40
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Alarme",
+        "total_topics_count": 32
+    },
+    {
+        "year_month": "2016-11",
+        "desc_topic": "Outros",
+        "total_topics_count": 57
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Alarme",
+        "total_topics_count": 91
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 33
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "IMAC",
+        "total_topics_count": 583
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Alarme",
+        "total_topics_count": 55
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 317
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 367
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 83
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 6823
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 191
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Outros",
+        "total_topics_count": 201
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 35
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Outros",
+        "total_topics_count": 90
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 680
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 53
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 26
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "IMAC",
+        "total_topics_count": 149
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 31
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Impressora",
+        "total_topics_count": 32
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 271
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Outros",
+        "total_topics_count": 1055
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Outros",
+        "total_topics_count": 53
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Ramal",
+        "total_topics_count": 10
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Outros",
+        "total_topics_count": 58
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 125
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Outros",
+        "total_topics_count": 71
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Outros",
+        "total_topics_count": 384
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 97
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 37
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 212
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Aspect",
+        "total_topics_count": 86
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "IMAC",
+        "total_topics_count": 132
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 42
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 58
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 68
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Outros",
+        "total_topics_count": 146
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 211
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "IMAC",
+        "total_topics_count": 34
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Alarme",
+        "total_topics_count": 118
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 166
+    },
+    {
+        "year_month": "2016-12",
+        "desc_topic": "Outros",
+        "total_topics_count": 70
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 112
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Outros",
+        "total_topics_count": 40
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Outros",
+        "total_topics_count": 44
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "IMAC",
+        "total_topics_count": 225
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Alarme",
+        "total_topics_count": 79
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 285
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 93
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 148
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 7229
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 249
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Outros",
+        "total_topics_count": 155
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 26
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Outros",
+        "total_topics_count": 40
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 1644
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 56
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 77
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "IMAC",
+        "total_topics_count": 86
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 540
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Impressora",
+        "total_topics_count": 56
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 62
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 166
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Alarme",
+        "total_topics_count": 123
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Ramal",
+        "total_topics_count": 24
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Outros",
+        "total_topics_count": 49
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 416
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Outros",
+        "total_topics_count": 142
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Outros",
+        "total_topics_count": 116
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 549
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 73
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 89
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Aspect",
+        "total_topics_count": 73
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "IMAC",
+        "total_topics_count": 194
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 7
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 59
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 1805
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Outros",
+        "total_topics_count": 193
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 279
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "IMAC",
+        "total_topics_count": 129
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Alarme",
+        "total_topics_count": 478
+    },
+    {
+        "year_month": "2017-01",
+        "desc_topic": "Outros",
+        "total_topics_count": 126
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Alarme",
+        "total_topics_count": 202
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Outros",
+        "total_topics_count": 31
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Outros",
+        "total_topics_count": 15
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "IMAC",
+        "total_topics_count": 187
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Alarme",
+        "total_topics_count": 74
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 201
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 75
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 135
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 5461
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 218
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Outros",
+        "total_topics_count": 205
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 8
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Outros",
+        "total_topics_count": 61
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 1472
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 42
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 96
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "IMAC",
+        "total_topics_count": 37
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 382
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Impressora",
+        "total_topics_count": 34
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 102
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Outros",
+        "total_topics_count": 410
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Alarme",
+        "total_topics_count": 83
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Ramal",
+        "total_topics_count": 16
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Outros",
+        "total_topics_count": 27
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 181
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Outros",
+        "total_topics_count": 101
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Outros",
+        "total_topics_count": 80
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 582
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 62
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 58
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Aspect",
+        "total_topics_count": 65
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "IMAC",
+        "total_topics_count": 163
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 56
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 116
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 785
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Outros",
+        "total_topics_count": 273
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 323
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "IMAC",
+        "total_topics_count": 114
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 125
+    },
+    {
+        "year_month": "2017-02",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 138
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Outros",
+        "total_topics_count": 782
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 152
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Outros",
+        "total_topics_count": 22
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "IMAC",
+        "total_topics_count": 253
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Alarme",
+        "total_topics_count": 99
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 277
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 119
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 200
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 7611
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 253
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Outros",
+        "total_topics_count": 211
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 12
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Outros",
+        "total_topics_count": 34
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 1288
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 121
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 74
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "IMAC",
+        "total_topics_count": 49
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 401
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Impressora",
+        "total_topics_count": 48
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 153
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Outros",
+        "total_topics_count": 54
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Alarme",
+        "total_topics_count": 107
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Ramal",
+        "total_topics_count": 28
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Outros",
+        "total_topics_count": 24
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 183
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Outros",
+        "total_topics_count": 102
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Outros",
+        "total_topics_count": 89
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 596
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 51
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 53
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Aspect",
+        "total_topics_count": 83
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "IMAC",
+        "total_topics_count": 282
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 69
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 189
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 546
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Outros",
+        "total_topics_count": 587
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 229
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "IMAC",
+        "total_topics_count": 71
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 171
+    },
+    {
+        "year_month": "2017-03",
+        "desc_topic": "Alarme",
+        "total_topics_count": 437
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Alarme",
+        "total_topics_count": 294
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 79
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Outros",
+        "total_topics_count": 86
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Outros",
+        "total_topics_count": 10
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "IMAC",
+        "total_topics_count": 206
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Alarme",
+        "total_topics_count": 69
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 217
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 182
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 160
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 7607
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 281
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 188
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 13
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Outros",
+        "total_topics_count": 35
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 661
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 90
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 58
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "IMAC",
+        "total_topics_count": 71
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 131
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Impressora",
+        "total_topics_count": 46
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 72
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Outros",
+        "total_topics_count": 844
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Alarme",
+        "total_topics_count": 135
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Ramal",
+        "total_topics_count": 32
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Outros",
+        "total_topics_count": 23
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 130
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Outros",
+        "total_topics_count": 107
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Outros",
+        "total_topics_count": 42
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 456
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 16
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 35
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Aspect",
+        "total_topics_count": 65
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "IMAC",
+        "total_topics_count": 179
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 94
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 169
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 195
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Outros",
+        "total_topics_count": 431
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 223
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "IMAC",
+        "total_topics_count": 64
+    },
+    {
+        "year_month": "2017-04",
+        "desc_topic": "Outros",
+        "total_topics_count": 142
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 304
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 150
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Outros",
+        "total_topics_count": 36
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Outros",
+        "total_topics_count": 45
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "IMAC",
+        "total_topics_count": 274
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Alarme",
+        "total_topics_count": 111
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 247
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 553
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 122
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 8104
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 271
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Outros",
+        "total_topics_count": 218
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 93
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Outros",
+        "total_topics_count": 42
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 890
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 98
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 51
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "IMAC",
+        "total_topics_count": 118
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 136
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Impressora",
+        "total_topics_count": 195
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 85
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Outros",
+        "total_topics_count": 796
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Alarme",
+        "total_topics_count": 165
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Ramal",
+        "total_topics_count": 45
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Outros",
+        "total_topics_count": 47
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 207
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Outros",
+        "total_topics_count": 146
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Outros",
+        "total_topics_count": 58
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 524
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 171
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 71
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Aspect",
+        "total_topics_count": 72
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "IMAC",
+        "total_topics_count": 365
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 56
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 161
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 167
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Outros",
+        "total_topics_count": 476
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 279
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "IMAC",
+        "total_topics_count": 132
+    },
+    {
+        "year_month": "2017-05",
+        "desc_topic": "Alarme",
+        "total_topics_count": 203
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Outros",
+        "total_topics_count": 563
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Alarme",
+        "total_topics_count": 117
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Outros",
+        "total_topics_count": 25
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "IMAC",
+        "total_topics_count": 388
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Alarme",
+        "total_topics_count": 56
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 180
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 476
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 114
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 8209
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 170
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Outros",
+        "total_topics_count": 150
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 149
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Outros",
+        "total_topics_count": 35
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 538
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 97
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 63
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "IMAC",
+        "total_topics_count": 98
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 55
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Impressora",
+        "total_topics_count": 36
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 60
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Outros",
+        "total_topics_count": 46
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Alarme",
+        "total_topics_count": 110
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Ramal",
+        "total_topics_count": 25
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Outros",
+        "total_topics_count": 66
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 165
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Outros",
+        "total_topics_count": 99
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Outros",
+        "total_topics_count": 83
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 397
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 177
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 58
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Aspect",
+        "total_topics_count": 80
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "IMAC",
+        "total_topics_count": 309
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 55
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 117
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 91
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Outros",
+        "total_topics_count": 329
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 229
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "IMAC",
+        "total_topics_count": 67
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 186
+    },
+    {
+        "year_month": "2017-06",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 202
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Alarme",
+        "total_topics_count": 86
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 235
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Outros",
+        "total_topics_count": 64
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Outros",
+        "total_topics_count": 47
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "IMAC",
+        "total_topics_count": 250
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Alarme",
+        "total_topics_count": 64
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 199
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 412
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 292
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 10618
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 186
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Outros",
+        "total_topics_count": 150
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 246
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Outros",
+        "total_topics_count": 243
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 521
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 106
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 41
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "IMAC",
+        "total_topics_count": 110
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 133
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Impressora",
+        "total_topics_count": 48
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 74
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Outros",
+        "total_topics_count": 279
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Alarme",
+        "total_topics_count": 99
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Ramal",
+        "total_topics_count": 44
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Outros",
+        "total_topics_count": 387
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 439
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Outros",
+        "total_topics_count": 103
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Outros",
+        "total_topics_count": 63
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 390
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 96
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 75
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Aspect",
+        "total_topics_count": 113
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "IMAC",
+        "total_topics_count": 436
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 87
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 107
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 95
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "Outros",
+        "total_topics_count": 310
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 256
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "IMAC",
+        "total_topics_count": 153
+    },
+    {
+        "year_month": "2017-07",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 178
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 370
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Alarme",
+        "total_topics_count": 38
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Outros",
+        "total_topics_count": 90
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Outros",
+        "total_topics_count": 26
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "IMAC",
+        "total_topics_count": 285
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Alarme",
+        "total_topics_count": 87
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 190
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 454
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 257
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 11201
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 221
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Outros",
+        "total_topics_count": 143
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 181
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Outros",
+        "total_topics_count": 114
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 422
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 86
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 132
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "IMAC",
+        "total_topics_count": 101
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 102
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Impressora",
+        "total_topics_count": 204
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 78
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Outros",
+        "total_topics_count": 149
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Alarme",
+        "total_topics_count": 110
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Ramal",
+        "total_topics_count": 34
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Outros",
+        "total_topics_count": 159
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 139
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Outros",
+        "total_topics_count": 117
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Outros",
+        "total_topics_count": 82
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 459
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 68
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 52
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Aspect",
+        "total_topics_count": 83
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "IMAC",
+        "total_topics_count": 500
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 58
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 119
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 107
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Outros",
+        "total_topics_count": 249
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 280
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "IMAC",
+        "total_topics_count": 215
+    },
+    {
+        "year_month": "2017-08",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 295
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 36
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 168
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 81
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 43
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "IMAC",
+        "total_topics_count": 316
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Alarme",
+        "total_topics_count": 86
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Erro acesso internet",
+        "total_topics_count": 163
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "LentidÃ£o",
+        "total_topics_count": 276
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Qlikview",
+        "total_topics_count": 255
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 9252
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Telefonia",
+        "total_topics_count": 208
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 75
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Desbloqueio de usuÃ¡rio (rede segregada)",
+        "total_topics_count": 298
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 43
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Reset de senha",
+        "total_topics_count": 459
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "VideoconferÃªncia",
+        "total_topics_count": 107
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "CriaÃ§Ã£o senha email",
+        "total_topics_count": 45
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "IMAC",
+        "total_topics_count": 121
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 52
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Impressora",
+        "total_topics_count": 129
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 231
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 138
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Alarme",
+        "total_topics_count": 83
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Ramal",
+        "total_topics_count": 32
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 74
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 164
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 122
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 80
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 361
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "CriaÃ§Ã£o email zimbra",
+        "total_topics_count": 54
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "GestÃ£o de acessos",
+        "total_topics_count": 67
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Aspect",
+        "total_topics_count": 134
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "IMAC",
+        "total_topics_count": 391
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Reset de senha (email)",
+        "total_topics_count": 62
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "InstalaÃ§Ã£o office",
+        "total_topics_count": 90
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Desbloqueio de usuÃ¡rio",
+        "total_topics_count": 144
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Outros",
+        "total_topics_count": 205
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "CriaÃ§Ã£o usuÃ¡rio de rede",
+        "total_topics_count": 144
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "IMAC",
+        "total_topics_count": 125
+    },
+    {
+        "year_month": "2017-09",
+        "desc_topic": "Alarme",
+        "total_topics_count": 48
+    },
+    {
+        "year_month": "2017-10",
+        "desc_topic": "LiberaÃ§Ã£o de email",
+        "total_topics_count": 180
+    },
+    {
+        "year_month": "2017-10",
+        "desc_topic": "Alarme",
+        "total_topics_count": 46
+    },
+    {
+        "year_month": "2017-10",
+        "desc_topic": "Restaurar ligaÃ§Ãµes",
+        "total_topics_count": 259
+    },
+    {
+        "year_month": "2017-10",
+        "desc_topic": "Outros",
+        "total_topics_count": 103
+    },
+    {
+        "year_month": "2017-10",
+        "desc_topic": "Outros",
+        "total_topics_count": 55
+    },
+    {
+        "year_month": "2017-10",
+        "desc_topic": "IMAC",
+        "total_topics_count": 369
+    }
+]
