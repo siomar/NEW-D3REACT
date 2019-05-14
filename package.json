@@ -6,6 +6,8 @@
     "axios": "^0.18.0",
     "chart.js": "^2.8.0",
     "d3": "^5.9.2",
+    "html2canvas": "^1.0.0-rc.1",
+    "jspdf": "^1.5.3",
     "react": "^16.8.4",
     "react-chartkick": "^0.3.0",
     "react-d3-cloud": "^0.7.0",

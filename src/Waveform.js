@@ -17,7 +17,7 @@ class Waveform extends React.Component {
             radius = Math.min(width, height) / 2;
 
         var svg = d3.select('#circle')
-            .append("svg")
+            .append("svg").attr("width", "700").attr("height", "600")
             .append("g");
 
         svg.append("g")

@@ -74,7 +74,7 @@ class Word extends React.Component {
         <WordCloud
           font="Open Sans"
           data={data}
-          width={900}
+          width={700}
           rotate={rotate}
           fontSizeMapper={fontSizeMapper}
           onWordClick={word => this.onWordClick(word)}
