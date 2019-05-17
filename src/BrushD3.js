@@ -1,18 +1,50 @@
 
 import React from "react";
-import LineChart from "./components/LineChart";
+import { Line } from 'react-chartjs-2';
 
 var donutData = require("./json/dataLines.json");
 
 class BrushGraphic extends React.Component {
+clickLine = () =>{
+  alert();
+}
       render() {
-        var data = { 
-          series1: [ { x: 0, y: 20 }, { x: 1, y: 30 }, { x: 2, y: 10 }, { x: 3, y: 5 }, { x: 4, y: 8 }, { x: 5, y: 15 }, { x: 6, y: 10 } ],
-          series2: [ { x: 0, y: 8 }, { x: 1, y: 5 }, { x: 2, y: 20 }, { x: 3, y: 12 }, { x: 4, y: 4 }, { x: 5, y: 6 }, { x: 6, y: 2 } ],
-          series3: [ { x: 0, y: 0 }, { x: 1, y: 5 }, { x: 2, y: 8 }, { x: 3, y: 2 }, { x: 4, y: 6 }, { x: 5, y: 4 }, { x: 6, y: 2 } ]          
+        const data = {
+          labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+          datasets: [
+            {
+              label: 'My First dataset',
+              fill: false,
+              lineTension: 0.1,
+              borderColor: 'rgba(75,192,192,1)',
+              borderCapStyle: 'butt',
+              borderDash: [],
+              borderDashOffset: 0.0,
+              borderJoinStyle: 'miter',
+              pointBorderColor: 'rgba(75,192,192,1)',
+              pointBackgroundColor: '#fff',
+              pointBorderWidth: 1,
+              pointHoverRadius: 5,
+              pointHoverBackgroundColor: 'rgba(75,192,192,1)',
+              pointHoverBorderColor: 'rgba(220,220,220,1)',
+              pointHoverBorderWidth: 2,
+              pointRadius: 1,
+              pointHitRadius: 10,
+              data: [65, 59, 80, 81, 56, 55, 40],
+            }, {
+              label: 'My First dataset',
+              fill: false,
+              data: [45, 59, 56, 78, 23, 55, 40],
+            }
+          ]
         };
         return (
-          <LineChart data={data} />
+          <Line data={data} getElementAtEvent={ (elems) => {console.log(elems);}} onElementsClick={elems => {
+            // if required to build the URL, you can 
+            // get datasetIndex and value index from an `elem`:
+            // console.log(elems[0]._datasetIndex + ', ' + elems[0]._index);
+            // and then redirect to the target page:
+        }} />
         )
       }
 }

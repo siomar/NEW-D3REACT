@@ -69,3 +69,9 @@ polyline{
 .opacityPath{
   opacity: 0.1;
 }
+
+.chart {
+  height:80vh;
+  width:100vw;
+  background: white;
+}

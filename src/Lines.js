@@ -29,7 +29,7 @@ class Lines extends React.Component {
     var scale = d3
       .scaleLinear()
       .domain([0, 141356])
-      .range([0, 300]);
+      .range([0, 200]);
 
     const raiz = d3
       .select("#bars")
@@ -58,7 +58,7 @@ class Lines extends React.Component {
         // return this.setState({ selected: d.text });
         this.props.selectWord(d);
       })
-      .style("font-size", "12px")
+      .style("font-size", "8px")
       .style("background-color", (d, i) => {
         return !d.select ? "rgba(25,50,87,1)" : "rgba(59,199,95,1)";
       })

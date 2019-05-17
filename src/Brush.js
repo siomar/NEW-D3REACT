@@ -17,6 +17,7 @@ class BrushGraphic extends React.Component {
         //   ]
         // };
         this.state={data:donutData};
+        
       }
       componentDidMount() {
         const boom = () => this.setState({data: [...this.state.data, ["Aug", 10]], download: true, id: "chart-99"})
@@ -25,8 +26,7 @@ class BrushGraphic extends React.Component {
       render() {
         return (
           <div>
-            <LineChart data={this.state.data} height="500px" min={100} max={5000}/>
-            {/* <PieChart data={this.state.data} /> */}
+            <LineChart data={this.state.data} height="500px" min={100} max={1000}/>
           </div>
         )
       }
